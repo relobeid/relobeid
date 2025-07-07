@@ -1,4 +1,4 @@
-Hello, my name is Ramez Elobeid. 
+Hello, my name is Ramez. 
 
 Welcome to my profile.
 
